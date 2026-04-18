@@ -28,3 +28,9 @@ This project demonstrates a simple relational database system to manage students
 
 ## 👩‍💻 Author
 Saloni Rathore
+
+## 📸 Output Screenshots
+
+![Join Output](join_output.png)
+![Average Marks](avg_marks.png)
+![Total Marks](total_marks.png)
